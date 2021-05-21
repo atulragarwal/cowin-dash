@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+CoWin Dashboard
+
+A solution to allow users to view vaccination slot availability without having to login. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
